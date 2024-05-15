@@ -9,4 +9,5 @@ contact list, edit existing contacts, and
 delete contacts if needed. The program
 should store the contacts in memory or in
 a file for persistent storage.
-https://icons.veryicon.com/png/o/education-technology/ui-icon/contacts-77.png
+
+![Screenshot 2024-05-15 232404](https://github.com/Vyxxhu/Task-3/assets/149455773/ae912765-55ed-4db0-9b5f-4bd3f8e714b5)
